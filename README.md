@@ -23,7 +23,7 @@
     <button onclick="addTerm('-')">-</button>
     <button onclick="clearInput()">消す</button>
   </div>
-  <button onclick="checkAnswer()">答える！</button>
+  <button onclick="checkAnswer()">解答！</button>
   <p id="result"></p>
   <p id="score">0問正解中</p>
 

@@ -21,7 +21,7 @@
     <button onclick="addTerm('y²')">y²</button>
     <button onclick="addTerm('+')">+</button>
     <button onclick="addTerm('-')">-</button>
-    <button onclick="clearInput()">消す</button>
+    <button onclick="clearInput()">消去</button>
   </div>
   <button onclick="checkAnswer()">解答！</button>
   <p id="result"></p>

@@ -19,8 +19,6 @@
     <button onclick="addTerm('x²')">x²</button>
     <button onclick="addTerm('xy')">xy</button>
     <button onclick="addTerm('y²')">y²</button>
-    <button onclick="addTerm('+')">+</button>
-    <button onclick="addTerm('-')">-</button>
     <button onclick="clearInput()">消去</button>
   </div>
   <button onclick="checkAnswer()">解答！</button>
